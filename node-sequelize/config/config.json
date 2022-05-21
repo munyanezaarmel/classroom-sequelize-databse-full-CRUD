@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "armel",
+    "password": "Kigali@1",
+    "database": "node2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "Kigali@1",
+    "database": "node2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "Kigali@1",
+    "database": "node2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
